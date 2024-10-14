@@ -1,12 +1,18 @@
-# Hi there, I'm Amine 👋
+# Hi there, I'm xuAMINE 👋
 
-I'm a passionate developer with a love for open-source and creative projects!
+- 🌱 I’m currently learning advanced **JavaScript**, **TypeScript**, and **Docker**.
+- 🤝 I’m looking to collaborate with people on interesting projects.
+- 💬 Ask me anything concerning **software development**.
+- 📫 How to reach me? Send an email to [xuamine@domain.com](mailto:xuamine@domain.com).
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xuAMINE&show_icons=true&theme=chartreuse-dark)
+---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xuAMINE&theme=dark&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
+<div align="center">
 
-## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xuAMINE&layout=compact&theme=chartreuse-dark)
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xuAMINE&theme=dark&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak Stats" height="180px"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuAMINE&layout=compact&theme=chartreuse-dark" alt="Top Languages" height="180px"/>
+
+</div>
