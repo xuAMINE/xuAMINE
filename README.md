@@ -1,4 +1,4 @@
-# Hi there, I'm Amine 👋
+# Hi there, My name is Amine 👋
 
 - 🌱 I’m currently learning advanced **Java**, **Spring**, **JavaScript**, **TypeScript**, and **Docker**.
 - 🤝 I’m looking to collaborate with people on interesting projects.
