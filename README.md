@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced **Java**, **Spring**, **JavaScript**, **TypeScript**, and **Docker**.
 - 🤝 I’m looking to collaborate with people on interesting projects.
 - 📫 How to reach me? Send an email to [amine@sarafbrk.com](mailto:amine@sarafbrk.com).
-- - 🌐 Check out my website: [sarafbrk.com](https://sarafbrk.com).
+- 🌐 Check out my website: [sarafbrk.com](https://sarafbrk.com).
 
 ---
 
