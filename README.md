@@ -1,8 +1,4 @@
 
-
-
-
-
 # Hi there, My name is Amine 👋
 
 - 🌱 I’m currently learning advanced **Java**, **Spring**, **JavaScript**, **TypeScript**, and **Docker**.
